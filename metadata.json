@@ -1,0 +1,6 @@
+{
+  "name": "QuantFooty Lab",
+  "description": "Football match-market statistical research platform for backtesting market edges, knockout dynamics, outlier robustness, and bootstrap uncertainty.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
